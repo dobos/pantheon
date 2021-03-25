@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CardsToCsv": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Data\\dobos\\project\\AddressList\\data\\test\\*.txt C:\\Data\\dobos\\project\\AddressList\\tmp\\list.csv"
+    }
+  }
+}
